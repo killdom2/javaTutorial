@@ -8,6 +8,6 @@ public class Test1 {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Enter a number: ");
         int number = scanner.nextInt();
-        System.out.println(number);
+        System.out.println("Your number is: " + number);
     }
 }
